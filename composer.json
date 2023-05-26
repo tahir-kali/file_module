@@ -1,0 +1,15 @@
+{
+    "name": "codeholic/file",
+    "autoload": {
+        "psr-4": {
+            "Codeholic\\File\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Codeholic",
+            "email": "irenic.tahir@gmail.com"
+        }
+    ],
+    "require": {}
+}
